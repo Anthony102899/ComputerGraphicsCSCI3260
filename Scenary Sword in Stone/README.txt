@@ -20,6 +20,6 @@ Manipulation:
 	"Q"    :  Scale down the sword.
 
 	Some interactions between objects:
-	1. When the sword is totally pulled out from stone, the flame on both of the torches will extinguish. Once the sword is pluged back into 		stone, the flame will burn again.
+	1. When the sword is totally pulled out from stone, the flame on both of the torches will extinguish. Once the sword is pluged back into  stone, the flame will burn again.
 	
 
